@@ -2,7 +2,7 @@
 
 https://github.com/ewaporacja/logo/
 
-# Logotyp codereview.pl
+# Logotyp ewaporacja.pl
 + [Landing page: www.ewaporacja.pl](https://www.ewaporacja.pl/)
 + [Dokumentacja](https://docs.ewaporacja.pl/)
 + [Logotyp ewaporacja.pl](https://logo.ewaporacja.pl/)
